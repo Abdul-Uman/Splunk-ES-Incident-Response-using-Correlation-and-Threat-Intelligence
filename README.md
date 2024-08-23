@@ -31,5 +31,5 @@ A detailed guide on installing Splunk ES,
 
 A detailed guide on tools used for Threat Intelligence
 
-
+<a href="https://github.com/Abdul-Uman/Splunk-ES-Incident-Response-using-Correlation-and-Threat-Intelligence/blob/main/Threat%20Intelligence%20Tools%20with%20Splunk%20ES.md">Threat Intelligence Tools used with Splunk ES</a>
 
