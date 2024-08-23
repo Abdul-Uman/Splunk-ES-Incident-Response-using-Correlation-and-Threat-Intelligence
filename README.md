@@ -24,7 +24,7 @@ In today’s security landscape, the ability to quickly detect, analyze, and res
 A detailed guide on installing Splunk ES,
 
 
-
+<a href="https://github.com/Abdul-Uman/Splunk-ES-Incident-Response-using-Correlation-and-Threat-Intelligence/blob/main/Splunk%20ES%20Installation.md">Splunk ES Installation</a>
 
 
 ### Threat Intelligence Tools with Splunk ES
