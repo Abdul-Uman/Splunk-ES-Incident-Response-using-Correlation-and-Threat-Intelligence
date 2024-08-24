@@ -12,8 +12,6 @@ This repository provides a step-by-step guide on using **Splunk Enterprise Secur
 - [Incident Response Examples](#incident-response-examples)
   - [Large Number of Windows Login Failure Attempts Detected](#large-number-of-windows-login-failure-attempts-detected)
   - [Large Number of Firewall Deny Connections from the Same Source - Inbound](#large-number-of-firewall-deny-connections-from-the-same-source-inbound)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -54,19 +52,3 @@ Steps to detect and respond to a large number of firewall deny connections from 
 ### Link to Full Guide:
 
 <a href="https://github.com/Abdul-Uman/Splunk-ES-Incident-Response-using-Correlation-and-Threat-Intelligence/blob/main/Incident%20Response%20Examples/Large%20Number%20of%20Firewall%20Deny%20Connections%20from%20Same%20Source%20Inbound.md">Large Number of Firewall Deny Connections from Same Source-Inbound</a>
-
-## Contributing
-
-### Short Description:
-Information on how to contribute to this project, including guidelines for submitting pull requests and enhancing documentation.
-
-### Link to Contribution Guide:
-[Click here to view the Contribution Guide](#)
-
-## License
-
-### Short Description:
-Details about the licensing of this repository.
-
-### Link to License:
-[Click here to view the License](#)
