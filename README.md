@@ -33,3 +33,38 @@ A detailed guide on tools used for Threat Intelligence
 
 <a href="https://github.com/Abdul-Uman/Splunk-ES-Incident-Response-using-Correlation-and-Threat-Intelligence/blob/main/Threat%20Intelligence%20Tools%20with%20Splunk%20ES.md">Threat Intelligence Tools used with Splunk ES</a>
 
+
+## Incident Response Examples
+
+### Large Number of Windows Login Failure Attempts Detected
+
+## Short Description:
+Steps to detect and respond to a high number of failed Windows login attempts using correlation,Service Now Ticketing Tool And Email Communication to Analyze Incident.
+
+### Link to Full Guide:
+
+<a href="https://github.com/Abdul-Uman/Splunk-ES-Incident-Response-using-Correlation-and-Threat-Intelligence/blob/main/Incident%20Response%20Examples/Large%20Number%20of%20Windows%20login%20failure%20attempt%20detected%20from%20Same%20User.md">Large Number of Windows login Failure Attempts Detected</a>
+
+### High Number of Deny Events from the Same Source - Inbound
+
+### Short Description:
+Steps to detect and respond to a large number of deny events from the same source IP using a custom SPL query.
+
+### Link to Full Guide:
+[Click here to view the Deny Events Detection Guide](#)
+
+## Contributing
+
+### Short Description:
+Information on how to contribute to this project, including guidelines for submitting pull requests and enhancing documentation.
+
+### Link to Contribution Guide:
+[Click here to view the Contribution Guide](#)
+
+## License
+
+### Short Description:
+Details about the licensing of this repository.
+
+### Link to License:
+[Click here to view the License](#)
