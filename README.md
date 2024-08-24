@@ -34,18 +34,18 @@ A detailed guide on tools used for Threat Intelligence
 
 ## Incident Response Examples
 
-### 1.Large Number of Windows Login Failure Attempts Detected
+### Large Number of Windows Login Failure Attempts Detected
 
-### Short Description:
+ **Short Description:**
 Steps to detect and respond to a high number of failed Windows login attempts using correlation,Service Now Ticketing Tool And Email Communication to Analyze Incident.
 
 ### Link to Full Guide:
 
 <a href="https://github.com/Abdul-Uman/Splunk-ES-Incident-Response-using-Correlation-and-Threat-Intelligence/blob/main/Incident%20Response%20Examples/Large%20Number%20of%20Windows%20login%20failure%20attempt%20detected%20from%20Same%20User.md">Large Number of Windows login Failure Attempts Detected</a>
 
-### 2.Large Number of Firewall Deny Connections from the Same Source Inbound
+### Large Number of Firewall Deny Connections from the Same Source Inbound
 
-### Short Description:
+ **Short Description:**
 Steps to detect and respond to a large number of firewall deny connections from the same source IP using a correlation,Threat Intellingence ,Service Now Ticketing Tool And Email Communication to Analyze Incident.
 
 
